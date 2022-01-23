@@ -56,7 +56,7 @@ module.exports = {
         links: {
           post: '',
           github: 'https://github.com/prgrms-web-devcourse/Team_CherryBoys_MatchUs_FE',
-          demo: ',
+          demo: '',
         },
       },
     ],
@@ -82,15 +82,15 @@ module.exports = {
       // {
       //   title: '헬시업(Health Up)',
       //   description:
-      //     '',
-      //   techStack: ['react', 'typescript', 'react-query'],
+      //     'd',
+      //   techStack: ['gatsby', 'react'],
       //   thumbnailUrl: 'blog.png',
       //   links: {
       //     post: '/gatsby-starter-zoomkoding-introduction',
       //     github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
       //     demo: 'https://www.zoomkoding.com',
       //   },
-      },
+      // },
     ],
   },
 };
