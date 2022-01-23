@@ -47,7 +47,7 @@ module.exports = {
         links: {
           post: '',
           github: 'https://github.com/mash-up-kr/HellTaBus_Web',
-          demo: ',
+          demo: '',
         },
       },
       {
